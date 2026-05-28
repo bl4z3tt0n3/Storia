@@ -22,13 +22,13 @@ Quando analizzi questo repository:
 ## Struttura del repository
 
 - `/libro/`  
-  Contiene i capitoli del libro in forma testuale. Ogni file corrisponde a un capitolo e segue la denominazione `cap_XX_titolo.md` (es. `cap_01_introduzione.md`).
+  Contiene i capitoli del libro in forma testuale. Ogni file corrisponde a un capitolo del libro di storia,
 
 - `/riassunti/`  
-  Contiene i riassunti dei singoli capitoli del libro. I file seguono la stessa numerazione della cartella `/libro/` per facilitare il confronto diretto (es. `riassunto_cap_01.md`).
+  Contiene i riassunti dei singoli capitoli del libro. I file seguono la stessa numerazione della cartella `/libro/` per facilitare il confronto diretto.
 
 - `/documenti_storici/`  
-  Contiene documenti primari, fonti storiche, testi originali o estratti utili a contestualizzare il libro. Ogni file indica chiaramente la fonte e la data del documento.
+  Contiene documenti primari, fonti storiche, testi originali o estratti utili a contestualizzare il libro.
 
 - `/immagini/`  
   Contiene immagini, mappe, tavole o scansioni utili alla comprensione dei contenuti.
