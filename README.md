@@ -30,8 +30,6 @@ Quando analizzi questo repository:
 - `/documenti_storici/`  
   Contiene documenti primari, fonti storiche, testi originali o estratti utili a contestualizzare il libro.
 
-- `/immagini/`  
-  Contiene immagini, mappe, tavole o scansioni utili alla comprensione dei contenuti.
 
 ## Ordine consigliato di lettura
 
